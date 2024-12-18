@@ -1,0 +1,12 @@
+{
+  "name": "kbot-en-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.1",
+    "puppeteer": "^23.10.4"
+  }
+}
